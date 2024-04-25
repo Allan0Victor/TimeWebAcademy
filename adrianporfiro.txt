@@ -1,6 +1,8 @@
 Esse agora é a edição definitiva desse arquivo txt maravilhoso e que tem possui um conteúdo
-que pode ser muito interessante para as certas. Agora vamos abordar a história dos computadores,
+que pode ser muito interessante para as pessoas certas. Agora vamos abordar a história dos computadores,
 contando desde o ábaco.
 
-O ábaco o, é um antigo instrumento de cálculo, popularmente em sistema decimal, com provável origem na 
-Mesopotâmia há mais de 5500 anos, considerado como uma extensão do ato de contar com os dedos.
+O ábaco é um instrumento bem sucedido que, segundo os estudiosos, foi uma invenção dos chineses para facilitar os cálculos, pois com o 
+passar do tempo foi surgindo a necessidade de fazer “contas” cada vez mais complexas, assim inventaram o ÁBACO, formado por fios 
+paralelos e contas ou arruelas deslizantes, que de acordo com a sua posição, representa a quantidade a ser trabalhada, contém 2 conjuntos 
+por fio, 5 contas no conjunto das unidades e 2 contas que representam 5 unidades.
