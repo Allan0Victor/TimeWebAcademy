@@ -1,3 +1,6 @@
-lorem ipsum dolor sit amet
+Esse agora é a edição definitiva desse arquivo txt maravilhoso e que tem possui um conteúdo
+que pode ser muito interessante para as certas. Agora vamos abordar a história dos computadores,
+contando desde o ábaco.
 
-esse é um arquivo txt que tem um conteúdo muito interessante
+O ábaco o, é um antigo instrumento de cálculo, popularmente em sistema decimal, com provável origem na 
+Mesopotâmia há mais de 5500 anos, considerado como uma extensão do ato de contar com os dedos.
