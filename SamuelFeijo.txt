@@ -3,7 +3,8 @@ Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et 
 turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, 
 felis ut adipiscing
 
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eget ligula eu lectus lobortis condimentum. 
-Aliquam nonummy auctor massa. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac 
-turpis egestas. Nulla at risus. Quisque purus magna, auctor et, sagittis ac, posuere eu, lectus. Nam mattis, 
-felis ut adipiscing
+    A expressão Lorem ipsum não é um texto qualquer. Richard McClintock, professor de latim na Hampden-Sydney College, 
+na Virgínia, pesquisou uma das palavras da passagem do texto lorem ipsum na literatura clássica, "consectetur", 
+descobriu que o trecho vem das seções 1.10.32 e 1.10.33 do "De Finibus Bonorum et Malorum" (Os extremos do bem e do mal) 
+escrito por Cícero em 45 a.C. Esse livro versa sobre a teoria da ética, tendo sido muito consultado durante o período da
+ Renascença. A primeira linha, "Lorem ipsum dolor sit amet...", encontra-se na seção 1.10.32.[1]
